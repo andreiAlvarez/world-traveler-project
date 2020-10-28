@@ -1,0 +1,10 @@
+ines (6 sloc)  179 Bytes
+  
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Environment Variables should NEVER be published BUT FOR THE LEARNING PURPOSES WE WILL PUBLISH IT
+.env
